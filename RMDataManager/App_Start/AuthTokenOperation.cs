@@ -50,5 +50,3 @@ namespace RMDataManager.App_Start
     }
   }
 }
-
-//https://youtu.be/zQRgB6nasUc?si=cBRIouBB_WEUnDnC&t=882
